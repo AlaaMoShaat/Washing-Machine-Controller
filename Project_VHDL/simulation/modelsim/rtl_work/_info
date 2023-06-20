@@ -1,0 +1,269 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/jaser/OneDrive/Desktop/IUG/3ed year/2nd Semester/VHDL - lab/Project/Project_VHDL/simulation/modelsim
+Ebcd_7seg
+Z1 w1685316080
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 4
+R0
+Z4 8C:/Users/jaser/OneDrive/Desktop/IUG/3ed year/2nd Semester/VHDL - lab/Project/Project_VHDL/bcd_7seg.vhd
+Z5 FC:/Users/jaser/OneDrive/Desktop/IUG/3ed year/2nd Semester/VHDL - lab/Project/Project_VHDL/bcd_7seg.vhd
+l0
+L3 1
+VK2QOcVIPSi:]kV2bDjd>`1
+!s100 W3SH6f:OMdAd7gQ5KZDjV2
+Z6 OV;C;2020.1;71
+31
+Z7 !s110 1685457454
+!i10b 1
+Z8 !s108 1685457454.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/jaser/OneDrive/Desktop/IUG/3ed year/2nd Semester/VHDL - lab/Project/Project_VHDL/bcd_7seg.vhd|
+Z10 !s107 C:/Users/jaser/OneDrive/Desktop/IUG/3ed year/2nd Semester/VHDL - lab/Project/Project_VHDL/bcd_7seg.vhd|
+!i113 1
+Z11 o-93 -work work
+Z12 tExplicit 1 CvgOpt 0
+Aconditional
+R2
+R3
+DEx4 work 8 bcd_7seg 0 22 K2QOcVIPSi:]kV2bDjd>`1
+!i122 4
+l12
+L10 51
+VnZaKe_?4hRQW6G6c95A>P2
+!s100 NF34UUhAE9_OE54`;VkfR2
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eclock_div
+Z13 w1685277822
+Z14 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R2
+R3
+!i122 3
+R0
+Z15 8C:/Users/jaser/OneDrive/Desktop/IUG/3ed year/2nd Semester/VHDL - lab/Project/Project_VHDL/clock_div.vhd
+Z16 FC:/Users/jaser/OneDrive/Desktop/IUG/3ed year/2nd Semester/VHDL - lab/Project/Project_VHDL/clock_div.vhd
+l0
+L4 1
+V4i8lVNHi=840AbhC];Yk92
+!s100 jJ@VhndY=nH4?@3Tj1NSI0
+R6
+31
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-93|-work|work|C:/Users/jaser/OneDrive/Desktop/IUG/3ed year/2nd Semester/VHDL - lab/Project/Project_VHDL/clock_div.vhd|
+Z18 !s107 C:/Users/jaser/OneDrive/Desktop/IUG/3ed year/2nd Semester/VHDL - lab/Project/Project_VHDL/clock_div.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R14
+R2
+R3
+DEx4 work 9 clock_div 0 22 4i8lVNHi=840AbhC];Yk92
+!i122 3
+l14
+L11 18
+VYBZ[DJ>nnK2GdWbF>hBP[0
+!s100 RBIUTPjaLbBH;H6o`OcCK1
+R6
+31
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
+Emain
+Z19 w1685449756
+R2
+R3
+!i122 2
+R0
+Z20 8C:/Users/jaser/OneDrive/Desktop/IUG/3ed year/2nd Semester/VHDL - lab/Project/Project_VHDL/main.vhd
+Z21 FC:/Users/jaser/OneDrive/Desktop/IUG/3ed year/2nd Semester/VHDL - lab/Project/Project_VHDL/main.vhd
+l0
+L5 1
+VP`lOHUVb=WeV`:AoRZZD02
+!s100 ijDgBBeT>90TLf=L@C4j40
+R6
+31
+Z22 !s110 1685457453
+!i10b 1
+Z23 !s108 1685457453.000000
+Z24 !s90 -reportprogress|300|-93|-work|work|C:/Users/jaser/OneDrive/Desktop/IUG/3ed year/2nd Semester/VHDL - lab/Project/Project_VHDL/main.vhd|
+Z25 !s107 C:/Users/jaser/OneDrive/Desktop/IUG/3ed year/2nd Semester/VHDL - lab/Project/Project_VHDL/main.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R2
+R3
+DEx4 work 4 main 0 22 P`lOHUVb=WeV`:AoRZZD02
+!i122 2
+l64
+L18 56
+V?obbk7DWP7N`@di2Rdea00
+!s100 loXbb?n`@[R3Rok[[^RPe0
+R6
+31
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 1
+R11
+R12
+Emain_tb
+Z26 w1685457382
+R14
+R2
+R3
+!i122 5
+R0
+Z27 8C:/Users/jaser/OneDrive/Desktop/IUG/3ed year/2nd Semester/VHDL - lab/Project/Project_VHDL/main_TB.vhd
+Z28 FC:/Users/jaser/OneDrive/Desktop/IUG/3ed year/2nd Semester/VHDL - lab/Project/Project_VHDL/main_TB.vhd
+l0
+L5 1
+V<0OLPiUN5UU98YkAbB=<;2
+!s100 dW9zjNI29FD>3l:EZcmHe1
+R6
+31
+R7
+!i10b 1
+R8
+Z29 !s90 -reportprogress|300|-93|-work|work|C:/Users/jaser/OneDrive/Desktop/IUG/3ed year/2nd Semester/VHDL - lab/Project/Project_VHDL/main_TB.vhd|
+!s107 C:/Users/jaser/OneDrive/Desktop/IUG/3ed year/2nd Semester/VHDL - lab/Project/Project_VHDL/main_TB.vhd|
+!i113 1
+R11
+R12
+Abehavioral_tb
+R14
+R2
+R3
+DEx4 work 7 main_tb 0 22 <0OLPiUN5UU98YkAbB=<;2
+!i122 5
+l32
+L8 58
+VMRG6?eZ:A];kO]Z2h]<m_0
+!s100 _^AQgRc8j?>;jZ:g3@@De2
+R6
+31
+R7
+!i10b 1
+R8
+R29
+Z30 !s107 C:/Users/jaser/OneDrive/Desktop/IUG/3ed year/2nd Semester/VHDL - lab/Project/Project_VHDL/main_TB.vhd|
+!i113 1
+R11
+R12
+Esevseg_driver
+Z31 w1685310586
+R14
+R2
+R3
+!i122 1
+R0
+Z32 8C:/Users/jaser/OneDrive/Desktop/IUG/3ed year/2nd Semester/VHDL - lab/Project/Project_VHDL/SevSeg_Driver.vhd
+Z33 FC:/Users/jaser/OneDrive/Desktop/IUG/3ed year/2nd Semester/VHDL - lab/Project/Project_VHDL/SevSeg_Driver.vhd
+l0
+L5 1
+V0G`?[3RL78Ng8>k0OYBdV0
+!s100 h0O1e=7[f133fHQaf5<1_1
+R6
+31
+R22
+!i10b 1
+R23
+Z34 !s90 -reportprogress|300|-93|-work|work|C:/Users/jaser/OneDrive/Desktop/IUG/3ed year/2nd Semester/VHDL - lab/Project/Project_VHDL/SevSeg_Driver.vhd|
+Z35 !s107 C:/Users/jaser/OneDrive/Desktop/IUG/3ed year/2nd Semester/VHDL - lab/Project/Project_VHDL/SevSeg_Driver.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R14
+R2
+R3
+DEx4 work 13 sevseg_driver 0 22 0G`?[3RL78Ng8>k0OYBdV0
+!i122 1
+l42
+L19 162
+V949hcQHHo?1d8g9f7T;XD1
+!s100 Qd@nhbKFoW4G80JNNKT6@0
+R6
+31
+R22
+!i10b 1
+R23
+R34
+R35
+!i113 1
+R11
+R12
+Ewashing_machine
+Z36 w1685447119
+R14
+Z37 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z38 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R2
+R3
+!i122 0
+R0
+Z39 8C:/Users/jaser/OneDrive/Desktop/IUG/3ed year/2nd Semester/VHDL - lab/Project/Project_VHDL/washing_machine.vhd
+Z40 FC:/Users/jaser/OneDrive/Desktop/IUG/3ed year/2nd Semester/VHDL - lab/Project/Project_VHDL/washing_machine.vhd
+l0
+L8 1
+VeoG2RRNn29:NzQP2BCzJe0
+!s100 S1cjSdD[oQ4[54=o<Vl8=3
+R6
+31
+R22
+!i10b 1
+R23
+Z41 !s90 -reportprogress|300|-93|-work|work|C:/Users/jaser/OneDrive/Desktop/IUG/3ed year/2nd Semester/VHDL - lab/Project/Project_VHDL/washing_machine.vhd|
+Z42 !s107 C:/Users/jaser/OneDrive/Desktop/IUG/3ed year/2nd Semester/VHDL - lab/Project/Project_VHDL/washing_machine.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R14
+R37
+R38
+R2
+R3
+DEx4 work 15 washing_machine 0 22 eoG2RRNn29:NzQP2BCzJe0
+!i122 0
+l24
+L18 102
+VQA7SYGb]<mRU:5PWR=4QX3
+!s100 RI:61UTZ]j;0Gca8_H3fm3
+R6
+31
+R22
+!i10b 1
+R23
+R41
+R42
+!i113 1
+R11
+R12
